@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using NetworkMonitor.Data;
 using NetworkMonitor.Models;
 using System;
@@ -9,41 +8,39 @@ using System.Threading.Tasks;
 
 namespace NetworkMonitor.Controllers
 {
-    public class OIDsController : Controller
+    public class CategoryController : Controller
     {
         private readonly ApplicationDbContext _db;
 
-        public OIDsController(ApplicationDbContext db)
+        public CategoryController(ApplicationDbContext db)
         {
             _db = db;
         }
         public IActionResult Index()
         {
-            IEnumerable<OIDs> objList = _db.OIDs;
+            IEnumerable<Category> objList = _db.Categories;
             return View(objList);
         }
 
         // GET - CREATE
         public IActionResult Create()
         {
-            IEnumerable<Category> categoryList = _db.Categories;
-            ViewBag.Result = categoryList.ToArray();
             return View();
         }
 
         // POST - CREATE
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(OIDs obj)
+        public IActionResult Create(Category obj)
         {
             if (ModelState.IsValid)
             {
-                _db.OIDs.Add(obj);
+                _db.Categories.Add(obj);
                 _db.SaveChanges();
-                ViewBag.message = "Added OID successfully!";
+                ViewBag.message = "Added category successfully!";
                 return RedirectToAction("Index");
             }
-            ViewBag.message = "Add OID fail";
+            ViewBag.message = "Add category fail";
             return View(obj);
         }
 
@@ -53,29 +50,27 @@ namespace NetworkMonitor.Controllers
             {
                 return NotFound();
             }
-            var obj = _db.OIDs.Find(id);
+            var obj = _db.Categories.Find(id);
             if (obj == null)
             {
                 return NotFound();
             }
-            IEnumerable<Category> categoryList = _db.Categories;
-            ViewBag.Result = categoryList.ToArray();
             return View(obj);
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(OIDs obj)
+        public IActionResult Edit(Category obj)
         {
             if (ModelState.IsValid)
             {
-                _db.OIDs.Update(obj);
+                _db.Categories.Update(obj);
                 _db.SaveChanges();
-                ViewBag.message = "Updated OID successfully!";
+                ViewBag.message = "Updated category successfully!";
                 return RedirectToAction("Index");
             }
             return View(obj);
-            ViewBag.message = "Update OID fail";
+            ViewBag.message = "Update category fail";
         }
 
         public IActionResult Delete(int? id)
@@ -84,7 +79,7 @@ namespace NetworkMonitor.Controllers
             {
                 return NotFound();
             }
-            var obj = _db.OIDs.Find(id);
+            var obj = _db.Categories.Find(id);
             if (obj == null)
             {
                 return NotFound();
@@ -97,12 +92,12 @@ namespace NetworkMonitor.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirm(int? id)
         {
-            var obj = _db.OIDs.Find(id);
+            var obj = _db.Categories.Find(id);
             if (obj == null)
             {
                 return NotFound();
             }
-            _db.OIDs.Remove(obj);
+            _db.Categories.Remove(obj);
             _db.SaveChanges();
             return RedirectToAction("Index");
         }

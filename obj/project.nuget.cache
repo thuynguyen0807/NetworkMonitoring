@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uuJmz999X/SbHMGYVKfkcFzxfWVRrRnAaPtYCKRSK7V0uTIld32wBELFsjkjl5TXO231nZvF//1aZ+XocFDSnA==",
+  "dgSpecHash": "oGm3EiX8YdWVWCgJKEeEuiBh2K/WabMjGGyXuqLfo/+mS4SReSC5CBxVNHZgNpwYfAxKIs7CfSBYanG3rwx+eA==",
   "success": true,
   "projectFilePath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\NetworkMonitor\\NetworkMonitor.csproj",
   "expectedPackageFiles": [
@@ -65,6 +65,7 @@
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\snmpsharpnet\\0.9.5\\snmpsharpnet.0.9.5.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
@@ -141,5 +142,16 @@
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SnmpSharpNet 0.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SnmpSharpNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

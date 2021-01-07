@@ -1,7 +1,7 @@
-﻿@model NetworkMonitor.Models.OIDs
+﻿@model NetworkMonitor.Models.Category
 
 @{
-    ViewBag.Title = "Delete OID";
+    ViewBag.Title = "Delete Category";
     Layout = "~/Views/Shared/_UserHome.cshtml";
 }
 
@@ -11,22 +11,18 @@
         <div class="col-md-6">
             <div class="border p-4">
                 <div class="form-group row">
-                    <h2 class="item">Delete OIDs</h2>
+                    <h2 class="item">Delete Category</h2>
                     <br />
                 </div>
                 <h5 class="text-danger">Are you sure you want to delete this?</h5>
                 <h6 class="text-danger">@ViewBag.message</h6>
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
-                    <label asp-for="OID" class="control-label"></label>
-                    <input asp-for="OID" class="form-control" placeholder="Enter OID string" />
-                    <span asp-validation-for="OID" class="text-danger"></span>
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
                 </div>
-                <div class="form-group">
-                    <label asp-for="Category" class="control-label"></label>
-                    <input asp-for="Category" class="form-control" placeholder="What is OID of device type?" />
-                    <span asp-validation-for="Category" class="text-danger"></span>
-                </div>
+               
                 <div class="row">
                     <div class="col-6 form-group">
                         <input type="submit" value="Delete" class="btn btn-danger w-100" />

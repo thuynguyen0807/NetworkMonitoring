@@ -19,5 +19,9 @@ namespace NetworkMonitor.Data
         public DbSet<Devices> Devices { get; set; }
 
         public DbSet<OIDs> OIDs { get; set; }
+
+        public DbSet<Result> Results { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
     }
 }

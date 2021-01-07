@@ -7,7 +7,6 @@
 
 
 <div class="row justify-content-md-center">
-    
     <div class="col-md-7">
         <div class="border p-4">
             <h1 class="item">Add Device &nbsp; </h1>
@@ -46,11 +45,11 @@
                 <div class="form-group">
                     <label asp-for="Category" class="control-label"></label>
                     <select class="form-control" asp-for="Category">
-                        <option asp-for="Category" disabled>Category</option>
-                        <option asp-for="Category">Window</option>
-                        <option asp-for="Category">Linux</option>
-                        <option asp-for="Category">Router</option>
-                        <option asp-for="Category">Switch</option>
+                        <option>---Choose a category of device</option>
+                            @foreach (Category category in (Category[])ViewBag.Result)
+                            {
+                                <option class="form-control">@category.Name</option>
+                            }
                     </select>
                     <span asp-validation-for="Category" class="text-danger"></span>
                 </div>

@@ -998,6 +998,15 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "SnmpSharpNet/0.9.5": {
+        "type": "package",
+        "compile": {
+          "lib/SnmpSharpNet.dll": {}
+        },
+        "runtime": {
+          "lib/SnmpSharpNet.dll": {}
+        }
+      },
       "System.Collections/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -3849,6 +3858,18 @@
         "lib/netstandard1.0/_._",
         "runtime.native.system.4.3.0.nupkg.sha512",
         "runtime.native.system.nuspec"
+      ]
+    },
+    "SnmpSharpNet/0.9.5": {
+      "sha512": "uBkoPma04HngWy8ox6oUZsJqvNVzmDEV0CmjnwaGnTIVXfQTPbXQ2mE9h7YMQJFuLStlWcJogyPxVVabIUWlPQ==",
+      "type": "package",
+      "path": "snmpsharpnet/0.9.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/SnmpSharpNet.dll",
+        "snmpsharpnet.0.9.5.nupkg.sha512",
+        "snmpsharpnet.nuspec"
       ]
     },
     "System.Collections/4.3.0": {
@@ -7493,7 +7514,8 @@
       "Microsoft.AspNetCore.Session >= 2.2.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.1",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.1",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.1"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.1",
+      "snmpsharpnet >= 0.9.5"
     ]
   },
   "packageFolders": {
@@ -7552,6 +7574,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[5.0.1, )"
+          },
+          "snmpsharpnet": {
+            "target": "Package",
+            "version": "[0.9.5, )"
           }
         },
         "imports": [
@@ -7575,5 +7601,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SnmpSharpNet 0.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SnmpSharpNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

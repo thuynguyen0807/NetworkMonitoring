@@ -154,3 +154,10 @@ D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OID
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Create.cshtml.g.cs
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Edit.cshtml.g.cs
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\bin\Debug\net5.0\SnmpSharpNet.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Scan.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache

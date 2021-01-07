@@ -29,6 +29,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.1",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.1",
+          "SnmpSharpNet": "0.9.5",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -1141,6 +1142,17 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
           "Microsoft.NETCore.Targets": "1.1.3"
+        }
+      },
+      "SnmpSharpNet/0.9.5": {
+        "runtime": {
+          "lib/SnmpSharpNet.dll": {
+            "assemblyVersion": "0.9.5.0",
+            "fileVersion": "0.9.5.0"
+          }
+        },
+        "compile": {
+          "lib/SnmpSharpNet.dll": {}
         }
       },
       "System.Collections/4.3.0": {
@@ -3998,6 +4010,13 @@
       "sha512": "sha512-c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
       "path": "runtime.native.system/4.3.0",
       "hashPath": "runtime.native.system.4.3.0.nupkg.sha512"
+    },
+    "SnmpSharpNet/0.9.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uBkoPma04HngWy8ox6oUZsJqvNVzmDEV0CmjnwaGnTIVXfQTPbXQ2mE9h7YMQJFuLStlWcJogyPxVVabIUWlPQ==",
+      "path": "snmpsharpnet/0.9.5",
+      "hashPath": "snmpsharpnet.0.9.5.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

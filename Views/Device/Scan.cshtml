@@ -1,0 +1,50 @@
+﻿@using NetworkMonitor.Models;
+@{
+    ViewBag.Title = "Discovering Result";
+    Layout = "~/Views/Shared/_UserHome.cshtml";
+}
+
+<div class="container-fluid">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h3 class="text-primary">Discovering Result</h3>
+        </div>
+    </div>
+    <br />
+    <h5 class="text-danger">@ViewBag.message</h5>
+    @if (ViewBag.Result > 0)
+    {
+        <table class="table table-bordered table-striped" style="width: 100%">
+            <thead class="text-center">
+                <tr>
+                    <th>
+                        OIDs
+                    </th>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Value
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Result result in (Result[])ViewBag.Result)
+                {
+                    <tr>
+                        <td width="10%">@result.Oid</td>
+                        <td width="10%">@result.OidName</td>
+                        <td width="13%">@result.Value</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Result.</p>
+    }
+</div>
+
+
