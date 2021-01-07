@@ -1,0 +1,77 @@
+﻿@model IEnumerable<NetworkMonitor.Models.Devices>
+@{
+    ViewBag.Title = "Device List";
+    Layout = "~/Views/Shared/_UserHome.cshtml";
+}
+<div class="container-fluid">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Device List</h2>
+        </div>
+        <div class="col-6 text-right">
+            <a asp-controller="Device" asp-action="Create" class="btn btn-outline-primary">
+                <i class="fas fa-plus"></i> &nbsp; Create New Device
+            </a>
+        </div>
+    </div>
+    <br /><br />
+    <h5 class="text-info">@ViewBag.message</h5>
+    @if (Model.Count() > 0)
+    {
+        <table class="table table-bordered table-striped" style="width: 100%">
+            <thead class="text-center">
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Community
+                    </th>
+                    <th>
+                        IP Address
+                    </th>
+                    <th>
+                        Category
+                    </th>
+                    <th>
+                        Owner
+                    </th>
+                    <th>
+                        Contact
+                    </th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model)
+                {
+                    <tr>
+                        <td width="10%">@obj.Name</td>
+                        <td width="10%">@obj.Community</td>
+                        <td width="13%">@obj.Ip_Address</td>
+                        <td width="10%">@obj.Category</td>
+                        <td width="8%">@obj.Owner</td>
+                        <td width="20%">@obj.Email</td>
+                        <td>
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Device" asp-route-Id="@obj.Id" asp-action="Scan" class="btn btn-info mx-2">
+                                    Scan
+                                </a>
+                                <a asp-controller="Device" asp-route-Id="@obj.Id" asp-action="Edit" class="btn btn-success mx-2">
+                                    <i class="fas fa-edit"></i>
+                                </a>
+                                <a asp-controller="Device" asp-route-Id="@obj.Id" asp-action="Delete" class="btn btn-danger mx-2">
+                                    <i class="fas fa-trash-alt"></i>
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No device exist.</p>
+    }
+</div>

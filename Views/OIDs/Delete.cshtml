@@ -1,0 +1,40 @@
+﻿@model NetworkMonitor.Models.OIDs
+
+@{
+    ViewBag.Title = "Delete OID";
+    Layout = "~/Views/Shared/_UserHome.cshtml";
+}
+
+<form method="post" asp-action="DeleteConfirm">
+    <input asp-for="Id" hidden />
+    <div class="row justify-content-md-center">
+        <div class="col-md-6">
+            <div class="border p-4">
+                <div class="form-group row">
+                    <h2 class="item">Delete OIDs</h2>
+                    <br />
+                </div>
+                <h5 class="text-danger">Are you sure you want to delete this?</h5>
+                <h6 class="text-danger">@ViewBag.message</h6>
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="OID" class="control-label"></label>
+                    <input asp-for="OID" class="form-control" placeholder="Enter OID string" />
+                    <span asp-validation-for="OID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Category" class="control-label"></label>
+                    <input asp-for="Category" class="form-control" placeholder="What is OID of device type?" />
+                </div><span asp-validation-for="Category" class="text-danger"></span>
+                <div class="row">
+                    <div class="col-6 form-group">
+                        <input type="submit" value="Delete" class="btn btn-danger w-100" />
+                    </div>
+                    <div class="col-6 form-group">
+                        <a asp-action="Index" class="btn btn-success w-100"><i class="fas fa-sign-out-alt"></i> Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
