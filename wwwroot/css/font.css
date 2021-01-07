@@ -1,0 +1,47 @@
+﻿.greeting {
+    position: relative;
+    animation: myfirst 5s linear 2s infinite alternate;
+    font-family: 'Redressed', cursive;
+}
+
+@keyframes myfirst {
+    0% {
+        color: red;
+        left: 0px;
+        top: 0px;
+    }
+
+    25% {
+        color: purple;
+        left: 100px;
+        top: 0px;
+    }
+
+    50% {
+        color: blue;
+        left: 100px;
+        top: 25px;
+    }
+
+    75% {
+        color: green;
+        left: 0px;
+        top:25px;
+    }
+
+    100% {
+        color: red;
+        left: 0px;
+        top: 0px;
+    }
+}
+
+.name {
+    font: bold;
+    font-family: 'Redressed', cursive;
+    color: #1142b9 !important;
+}
+
+.item {
+    color: #1b6ec2;
+}

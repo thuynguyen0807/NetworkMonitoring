@@ -1,0 +1,86 @@
+﻿@model NetworkMonitor.Models.Devices
+
+@{
+    ViewBag.Title = "Add Device";
+    Layout = "~/Views/Shared/_UserHome.cshtml";
+}
+
+
+<div class="row justify-content-md-center">
+    
+    <div class="col-md-7">
+        <div class="border p-4">
+            <h1 class="item">Add Device &nbsp; </h1>
+            <br />
+            <h6 class="text-danger">@ViewBag.message</h6>
+            <form method="post" asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label">Device Name</label>
+                    <input asp-for="Name" class="form-control input-group-lg" placeholder="Device name" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">IP Version</label>
+                    <input class="form-control input-group-lg" value="IPv4" disabled />
+                </div>
+                <div class="form-group">
+                    <label asp-for="Ip_Address" class="control-label">IP Address</label>
+                    <input asp-for="Ip_Address" class="form-control input-group-lg" placeholder="IP Address" />
+                </div><span asp-validation-for="Ip_Address" class="text-danger"></span>
+                <div class="form-group">
+                    <label asp-for="Community" class="control-label"></label>
+                    <input asp-for="Community" class="form-control input-group-lg" placeholder="Enter community of device" />
+                    <span asp-validation-for="Community" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">SNMP Version</label>
+                    <input class="form-control input-group-lg" value="v2c" disabled />
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Port Number</label>
+                    <input class="form-control input-group-lg" value="161" disabled />
+                    <span class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Category" class="control-label"></label>
+                    <select class="form-control" asp-for="Category">
+                        <option asp-for="Category" disabled>Category</option>
+                        <option asp-for="Category">Window</option>
+                        <option asp-for="Category">Linux</option>
+                        <option asp-for="Category">Router</option>
+                        <option asp-for="Category">Switch</option>
+                    </select>
+                    <span asp-validation-for="Category" class="text-danger"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <label asp-for="Owner" class="control-label"></label>
+                    <input asp-for="Owner" class="form-control input-group-lg" placeholder="The name of owner" />
+                    <span asp-validation-for="Owner" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" class="form-control input-group-lg" placeholder="The email of owner" />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="row">
+                    <div class="col-6 form-group">
+                        <input type="submit" value="Create" class="btn btn-info w-100" />
+                    </div>
+                    <div class="col-6 form-group">
+                        <input type="reset" value="Cancel" class="btn btn-success w-100" />
+                    </div>
+                </div>
+
+            </form>
+            <div>
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+
+
