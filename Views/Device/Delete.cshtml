@@ -48,23 +48,17 @@
                 </div>
                 <div class="form-group">
                     <label asp-for="Category" class="control-label"></label>
-                    <select class="form-control input-group-lg" asp-for="Category" disabled>
-                        <span asp-validation-for="Category" class="text-danger">*</span>
-                        <option>Category</option>
-                        <option>Window</option>
-                        <option>Linux</option>
-                        <option>Router</option>
-                        <option>Switch</option>
+                    <select class="form-control" asp-for="Category">
+                        <option class="form-control">---Choose a category of device</option>
+                        <option class="form-control">Cisco</option>
+                        <option class="form-control">Window</option>
+                        <option class="form-control">Linux</option>
                     </select>
-                </div>
-                <div class="form-group">
-                    <label asp-for="Owner" class="control-label"></label>
-                    <input asp-for="Owner" class="form-control input-group-lg" disabled />
-                    <span asp-validation-for="Owner" class="text-danger"></span>
+                    <span asp-validation-for="Category" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="Email" class="control-label"></label>
-                    <input asp-for="Email" class="form-control input-group-lg" disabled />
+                    <input asp-for="Email" class="form-control input-group-lg" placeholder="Enter your email" />
                     <span asp-validation-for="Email" class="text-danger"></span>
                 </div>
                 <div class="row">

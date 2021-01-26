@@ -161,3 +161,655 @@ D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Cat
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\ref\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.exe
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.deps.json
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.json
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ref\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.Views.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\NetworkMonitor.Views.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\scopedcss\bundle\NetworkMonitor.styles.css
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Device\Scan.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\OIDs\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Shared\_UserHome.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.Views.pdb
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NetworkMonitor\obj\Debug\net5.0\NetworkMonitor.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\appsettings.json
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.exe
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.deps.json
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.json
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ref\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.Views.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.Views.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.xml
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\scopedcss\bundle\NetworkMonitor.styles.css
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.TagHelpers.input.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.TagHelpers.output.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorCoreGenerate.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Scan.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Create.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Delete.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Edit.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_UserHome.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.Views.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csproj.CopyComplete
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\ref\NetworkMonitor.dll
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.pdb
+C:\Users\Administrator\Desktop\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.genruntimeconfig.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\appsettings.Development.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\appsettings.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.deps.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.dev.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ref\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.Views.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\NetworkMonitor.Views.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Humanizer.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\SnmpSharpNet.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.AssemblyInfoInputs.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.AssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csproj.CoreCompileInputs.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.MvcApplicationPartsAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.Manifest.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.xml
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\scopedcss\bundle\NetworkMonitor.styles.css
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.TagHelpers.input.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.TagHelpers.output.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorCoreGenerate.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Device\Scan.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\OIDs\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_UserHome.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.Views.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.csproj.CopyComplete
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\ref\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorxxx\obj\Debug\net5.0\NetworkMonitor.genruntimeconfig.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\appsettings.Development.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\appsettings.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.deps.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.runtimeconfig.dev.json
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ref\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.Views.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\NetworkMonitor.Views.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Humanizer.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\SnmpSharpNet.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.csprojAssemblyReference.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.AssemblyInfoInputs.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.AssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.csproj.CoreCompileInputs.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.MvcApplicationPartsAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.RazorAssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.Manifest.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\staticwebassets\NetworkMonitor.StaticWebAssets.xml
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\scopedcss\bundle\NetworkMonitor.styles.css
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.TagHelpers.input.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.TagHelpers.output.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.RazorCoreGenerate.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Category\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Device\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Device\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Device\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Device\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Device\Scan.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\OIDs\Create.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\OIDs\Delete.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\OIDs\Edit.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\OIDs\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Shared\_UserHome.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Users\Login.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\Users\Register.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cache
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.RazorTargetAssemblyInfo.cs
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.Views.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.csproj.CopyComplete
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\ref\NetworkMonitor.dll
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.pdb
+D:\data\HOCKI 5\QUANTRIMANG\tool\NetworkMonitorABC - Copy\obj\Debug\net5.0\NetworkMonitor.genruntimeconfig.cache

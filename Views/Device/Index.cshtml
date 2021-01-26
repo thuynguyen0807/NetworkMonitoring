@@ -33,12 +33,6 @@
                     <th>
                         Category
                     </th>
-                    <th>
-                        Owner
-                    </th>
-                    <th>
-                        Contact
-                    </th>
                     <th>Action</th>
                 </tr>
             </thead>
@@ -50,8 +44,6 @@
                         <td width="10%">@obj.Community</td>
                         <td width="13%">@obj.Ip_Address</td>
                         <td width="10%">@obj.Category</td>
-                        <td width="8%">@obj.Owner</td>
-                        <td width="20%">@obj.Email</td>
                         <td>
                             <div class="w-75 btn-group" role="group">
                                 <a asp-controller="Device" asp-route-Id="@obj.Id" asp-action="Scan" class="btn btn-info mx-2">

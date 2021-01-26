@@ -69,8 +69,9 @@ namespace NetworkMonitor.Controllers
                 ViewBag.message = "Updated category successfully!";
                 return RedirectToAction("Index");
             }
-            return View(obj);
             ViewBag.message = "Update category fail";
+            return View(obj);
+            
         }
 
         public IActionResult Delete(int? id)

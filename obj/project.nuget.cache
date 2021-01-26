@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oGm3EiX8YdWVWCgJKEeEuiBh2K/WabMjGGyXuqLfo/+mS4SReSC5CBxVNHZgNpwYfAxKIs7CfSBYanG3rwx+eA==",
+  "dgSpecHash": "qkGVXZpWVEyu5tU4uv/VS9UcY58Qm8iYpEK1MDPoR1iaChPvU6te2czkJG9hfXUT4L1Edh8ojqjcQ1k/i7UTkA==",
   "success": true,
-  "projectFilePath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\NetworkMonitor\\NetworkMonitor.csproj",
+  "projectFilePath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\ThanhThuy-Good\\NetworkMonitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",

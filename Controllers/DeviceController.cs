@@ -24,16 +24,14 @@ namespace NetworkMonitor.Controllers
         public IActionResult Index()
         {
             // lay cac record trong device if email trong devices table == email session 
-            IEnumerable<Devices> objList = _db.Devices;
             
-            return View(objList);       
+            IEnumerable<Devices> objList = _db.Devices;
+            return View(objList);
         }
 
         // GET - CREATE
         public IActionResult Create()
         {
-            IEnumerable<Category> categoryList = _db.Categories;
-            ViewBag.Result = categoryList.ToArray();
             return View();
         }
 
@@ -66,7 +64,7 @@ namespace NetworkMonitor.Controllers
             }
             IEnumerable<Category> categoryList = _db.Categories;
             ViewBag.Result = categoryList.ToArray();
-            return View(obj);
+            return View();
         }
 
         [HttpPost]
@@ -80,8 +78,8 @@ namespace NetworkMonitor.Controllers
                 ViewBag.message = "Updated device successfully!";
                 return RedirectToAction("Index");
             }
-            return View(obj);
             ViewBag.message = "Update device fail";
+            return View(obj);
         }
 
         public IActionResult Delete(int? id)
@@ -95,7 +93,9 @@ namespace NetworkMonitor.Controllers
             {
                 return NotFound();
             }
-            return View(obj);
+            IEnumerable<Category> categoryList = _db.Categories;
+            ViewBag.Result = categoryList.ToArray();
+            return View();
         }
 
         //POST - DELETE

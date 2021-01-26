@@ -11,6 +11,7 @@
             <br />
             <h1 class="item">Register</h1>
             <br />
+            <h5 class="text-danger">@ViewBag.error</h5>
             <form method="post" asp-action="Register">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">

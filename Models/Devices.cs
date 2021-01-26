@@ -24,10 +24,7 @@ namespace NetworkMonitor.Models
         [Required]
         public string Category { get; set; }
 
-        [Required]
-        public string Owner { get; set; }
-
-        [Required]
+        //[Required]
         [RegularExpression(@"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}")]
         public string Email { get; set; }
     }

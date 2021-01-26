@@ -27,7 +27,5 @@ namespace NetworkMonitor.Models
         [Required]
         [System.ComponentModel.DataAnnotations.Compare("Password")]
         public string ConfirmPassword { get; set; }
-
-
     }
 }

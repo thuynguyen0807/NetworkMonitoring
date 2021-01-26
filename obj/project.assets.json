@@ -7524,11 +7524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\NetworkMonitor\\NetworkMonitor.csproj",
+      "projectUniqueName": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\ThanhThuy-Good\\NetworkMonitor.csproj",
       "projectName": "NetworkMonitor",
-      "projectPath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\NetworkMonitor\\NetworkMonitor.csproj",
+      "projectPath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\ThanhThuy-Good\\NetworkMonitor.csproj",
       "packagesPath": "C:\\Users\\Thuy Nguyen\\.nuget\\packages\\",
-      "outputPath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\NetworkMonitor\\obj\\",
+      "outputPath": "D:\\data\\HOCKI 5\\QUANTRIMANG\\tool\\ThanhThuy-Good\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thuy Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

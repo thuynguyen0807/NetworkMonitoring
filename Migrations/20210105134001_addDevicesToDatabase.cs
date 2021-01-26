@@ -16,7 +16,6 @@ namespace NetworkMonitor.Migrations
                     Community = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Ip_Address = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Category = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Owner = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Email = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
